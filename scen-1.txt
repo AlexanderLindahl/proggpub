@@ -1,4 +1,7 @@
 Min historia: scen 1.
-Karl: Välkommen till världens första git-pjäs!
 
-Karl dör
+
+Karl: Välkommen till världens första git-pjäs!'PANG'
+
+ 
+
